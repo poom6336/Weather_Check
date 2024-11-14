@@ -5,7 +5,7 @@ body {
     min-height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
-    background: #000000;
+    background-image: url("bg_storm.jpg");
   }
   
   .container {
